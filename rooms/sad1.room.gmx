@@ -104,7 +104,6 @@
     <instance objName="Obj_Brick" x="192" y="928" name="inst_9EA6828B" locked="0" code="" scaleX="2" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Brick" x="192" y="1504" name="inst_A46AE30D" locked="0" code="" scaleX="11" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Brick" x="512" y="1440" name="inst_AC6F8E61" locked="0" code="" scaleX="1" scaleY="2" colour="4294967295" rotation="0"/>
-    <instance objName="Obj_Firebrick" x="544" y="1440" name="inst_FA3480FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Firebrick" x="576" y="1440" name="inst_BE02DEE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Firebrick" x="608" y="1440" name="inst_0463C4A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Firebrick" x="640" y="1440" name="inst_55BFF631" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -131,6 +130,8 @@
     <instance objName="Obj_Water_1" x="32" y="1472" name="inst_DEC886EF" locked="0" code="image_xscale = 4;&#xA;image_yscale_max = 21 * 32;&#xA;fill_curr = fill_min + fill_max;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Brick" x="32" y="1440" name="inst_8C439592" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Brick" x="128" y="1440" name="inst_9F610ABC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Obj_Brick" x="544" y="1440" name="inst_70000C03" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Obj_Brick" x="800" y="448" name="inst_7FCC3B99" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

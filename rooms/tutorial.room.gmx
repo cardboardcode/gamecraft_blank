@@ -60,7 +60,7 @@ draw_text(view_xview+300,view_yview+650,"Press R to restart");</code>
     <instance objName="Obj_Brick" x="672" y="1120" name="inst_7EEE87E1" locked="0" code="" scaleX="5" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Brick" x="960" y="1280" name="inst_3340FCA8" locked="0" code="" scaleX="1" scaleY="-27" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Brick" x="864" y="864" name="inst_914F7D18" locked="0" code="" scaleX="3" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="Obj_Brick" x="512" y="704" name="inst_7D3CEE9A" locked="0" code="" scaleX="4" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Obj_Brick" x="512" y="704" name="inst_7D3CEE9A" locked="0" code="" scaleX="6" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Brick" x="160" y="832" name="inst_466913FC" locked="0" code="" scaleX="12" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Brick" x="160" y="864" name="inst_7E2E3524" locked="0" code="" scaleX="1" scaleY="-26.8387088775635" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Brick" x="960" y="416" name="inst_516C4CB0" locked="0" code="" scaleX="-23" scaleY="1" colour="4294967295" rotation="0"/>
