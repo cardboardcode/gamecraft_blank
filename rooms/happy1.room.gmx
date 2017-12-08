@@ -112,6 +112,8 @@
     <instance objName="Obj_Firebrick" x="1152" y="544" name="inst_D2A38BC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Firebrick" x="928" y="544" name="inst_F8751B5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="Obj_Brick" x="896" y="32" name="inst_1D35D8F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Obj_Brick" x="256" y="192" name="inst_C5CE886C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Obj_Spike" x="256" y="160" name="inst_A59DAB0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>
