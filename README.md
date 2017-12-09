@@ -31,6 +31,19 @@ The game follows the fantasy adventure dreamt by our main character who is sleep
 
 >  **SPACEBAR** - Jump   
 
+## Screenshots
+
+
+![](screenshots/01.png)
+![](screenshots/02.png)
+![](screenshots/03.png)
+![](screenshots/04.jpeg)
+![](screenshots/05.jpeg)
+![](screenshots/06.jpeg)
+![](screenshots/07.jpeg)
+![](screenshots/08.jpeg)
+![](screenshots/09.jpeg)
+
 ## Credits
 
 + Bey Hao Yun [@cardboardcode](https://github.com/cardboardcode)
