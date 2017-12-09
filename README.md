@@ -27,6 +27,6 @@ The game follows the fantasy adventure dreamt by our main character who is sleep
 
 >  **A** & **D** - Move left and right respectively
 
->  Shift - Toggle between different emotions/abilities
+>  **Shift** - Toggle between different emotions/abilities
 
->  SPACEBAR - Jump   
+>  **SPACEBAR** - Jump   
