@@ -13,6 +13,10 @@ We called our game "**Blank**" and in "**Blank**", you are a box-headed stickman
 
 The game follows the fantasy adventure dreamt by our main character who is sleeping in a hospital bed due to a coma (Refer to title screen above). He embarks upon this journey after having lost all his emotions and soughts to get them back. 
 
+[Introduction Cut Scene](https://github.com/cardboardcode/gamecraft_blank/blob/master/resources/intro.md)
+
+[End Cut Scene]
+https://github.com/cardboardcode/gamecraft_blank/blob/master/resources/end.md
 ## Setup
 
 > 1. Take a deep breathe
