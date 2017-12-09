@@ -30,3 +30,15 @@ The game follows the fantasy adventure dreamt by our main character who is sleep
 >  **Shift** - Toggle between different emotions/abilities
 
 >  **SPACEBAR** - Jump   
+
+## Credits
+
++ Bey Hao Yun [@cardboardcode](https://github.com/cardboardcode)
+
++ Yi Zhe [@JohannLee](https://github.com/JohannLee)
+
++ Daryl Ignatius Tan [@Ditan86](https://github.com/Ditan86)
+
++ Ying Xian [@lyxian](https://github.com/lyxian)
+
++ Henry [@HenryJk](https://github.com/HenryJk)
