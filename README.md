@@ -3,7 +3,7 @@
 
 ## What Is This?
 
-This is a 2D-platformer game called "Blank" created as our project submission and the first place winner for [Gamecraft 2017](https://itch.io/jam/gamecraft2017) which was a game jam that was held from 8th December 2017 1300 to 9th December 2017 at the National University of Singapore (NUS) School of Computing (SOC). 
+This is a 2D-platformer game called "Blank" created as our project submission and the first place winner for [Gamecraft 2017](https://itch.io/jam/gamecraft2017) which was a game jam that was held from 8th December 2017 1300 to 9th December 2017 at the National University of Singapore (NUS) School of Computing (SOC). A link to this game can also be found [here](https://cardboardcode.itch.io/blank-).
 
 ## What Is This Game About Then?
 
