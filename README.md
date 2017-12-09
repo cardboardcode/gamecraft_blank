@@ -24,6 +24,8 @@ The game follows the fantasy adventure dreamt by our main character who is sleep
 
 ## Controls
 
-> . A & D - Move left and right respectively
-> . Shift - Toggle between different emotions/abilities
-> . SPACEBAR - Jump   
+>  A & D - Move left and right respectively
+
+>  Shift - Toggle between different emotions/abilities
+
+>  SPACEBAR - Jump   
