@@ -15,8 +15,7 @@ The game follows the fantasy adventure dreamt by our main character who is sleep
 
 [Introduction Cut Scene](https://github.com/cardboardcode/gamecraft_blank/blob/master/resources/intro.md)
 
-[End Cut Scene]
-(https://github.com/cardboardcode/gamecraft_blank/blob/master/resources/end.md)
+[End Cut Scene](https://github.com/cardboardcode/gamecraft_blank/blob/master/resources/end.md)
 ## Setup
 
 > 1. Take a deep breathe
