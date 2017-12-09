@@ -1,8 +1,9 @@
-# Gamecraft 2017
+
+![](resources/images/title_screen.gif)
 
 ## What Is This?
 
-This is a 2D-platformer game called "Blank" created as our project submission for Gamecraft 2017 which was a game jam that was held from 8th December 2017 1300 to 9th December 2017 at the National University of Singapore (NUS) School of Computing (SOC). 
+This is a 2D-platformer game called "Blank" created as our project submission for [Gamecraft 2017](https://itch.io/jam/gamecraft2017) which was a game jam that was held from 8th December 2017 1300 to 9th December 2017 at the National University of Singapore (NUS) School of Computing (SOC). 
 
 ## What Is This Game About Then?
 
@@ -24,7 +25,7 @@ The game follows the fantasy adventure dreamt by our main character who is sleep
 
 ## Controls
 
->  A & D - Move left and right respectively
+>  **A** & **D** - Move left and right respectively
 
 >  Shift - Toggle between different emotions/abilities
 
