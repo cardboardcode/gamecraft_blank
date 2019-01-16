@@ -53,7 +53,7 @@ The game follows the fantasy adventure dreamt by our main character who is sleep
 
 + Yi Zhe [@JohannLee](https://github.com/JohannLee)
 
-+ Daryl Ignatius Tan [@Ditan86](https://github.com/Ditan86)
++ Daryl Ignatius Tan [@Ditan96](https://github.com/Ditan96)
 
 + Ying Xian [@lyxian](https://github.com/lyxian)
 
